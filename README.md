@@ -1,0 +1,2 @@
+# orai-munka
+orai csut
